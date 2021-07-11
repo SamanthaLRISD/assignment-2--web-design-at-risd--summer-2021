@@ -4,21 +4,26 @@ body{
 }
 
 h1{
-  color: #ffffff
+  font-family: 'Franklin Gothic', sans-serif;
+  color: #ffffff;
 }
 
 h2{
-  color: #ffffff
+  font-family: 'Franklin Gothic', sans-serif;
+  color: #ffffff;
 }
 
 p{
-  color:#ffffff
+  font-family: 'Franklin Gothic', sans-serif;
+  color:#ffffff;
 }
 
 ol{
-  color:#ffffff
+  font-family: 'Franklin Gothic', sans-serif;
+  color:#ffffff;
 }
 
 ul{
-  color:#ffffff
+  font-family: 'Franklin Gothic', sans-serif;
+  color:#ffffff;
 }
