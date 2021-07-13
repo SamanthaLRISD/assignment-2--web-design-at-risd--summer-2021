@@ -17,8 +17,9 @@ h2{
 }
 
 p{
-  color:#ffffff;
   font-family: 'Libre Franklin', sans-serif;
+  color: #ffffff;
+  column-count: 3;
 }
 
 ol{
