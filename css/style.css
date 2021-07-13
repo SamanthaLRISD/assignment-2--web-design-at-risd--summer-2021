@@ -23,11 +23,13 @@ p{
 }
 
 ol{
-  color:#ffffff;
   font-family: 'Libre Franklin', sans-serif;
+  color: #ffffff;
+  display: inline-block;
 }
 
 ul{
-  color:#ffffff;
   font-family: 'Libre Franklin', sans-serif;
+  color: #ffffff;
+  display: inline-block;
 }
