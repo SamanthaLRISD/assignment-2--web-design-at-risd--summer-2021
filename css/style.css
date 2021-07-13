@@ -12,6 +12,8 @@ h1{
 h2{
   font-family: 'Libre Franklin', sans-serif;
   color: #ffffff;
+  display: inline;
+  object-position: top;
 }
 
 p{
