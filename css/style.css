@@ -1,6 +1,5 @@
 body{
   background-color: #000000;
-  margin: 50px;
   margin: 3em;
 }
 
@@ -12,20 +11,16 @@ h1{
 h2{
   font: 2em 'Libre Franklin', sans-serif;
   color: #ffffff;
-  display: inline;
-  object-position: top;
 }
 
 p{
   font: 1em / 1.5 'Libre Franklin', sans-serif;
   color: #ffffff;
-  column-count: 3;
 }
 
 ol{
   font: 1em / 1.75 'Libre Franklin', sans-serif;
   color: #ffffff;
-  display: inline-block;
 }
 
 ul{
