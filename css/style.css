@@ -1,38 +1,38 @@
-body{
+body {
   background-color: #000000;
   margin: 3em;
 }
 
-h1{
+h1 {
   font: 3em 'Libre Franklin', sans-serif;
   color: #ffffff;
 }
 
-h2{
+h2 {
   font: 2em 'Libre Franklin', sans-serif;
   color: #ffffff;
 }
 
-p{
+p {
   font: 1em / 1.5 'Libre Franklin', sans-serif;
   color: #ffffff;
 }
 
-ol{
+ol {
   font: 1em / 1.75 'Libre Franklin', sans-serif;
   color: #ffffff;
 }
 
-ul{
+ul {
   font: 1em / 1.5 'Libre Franklin', sans-serif;
   color: #ffffff;
 }
 
-img{
+img {
   width: 500px;
 }
 
-a{
+a {
   color: #007AF5;
 }
 
@@ -40,14 +40,14 @@ a{
   columns: 3 auto;
 }
 
-#Track{
+#Track {
   color: #F5361C;
 }
 
-#Members{
+#Members {
   color: #007AF5;
 }
 
-#Review{
+#Review {
   color: #F5D73A;
 }
