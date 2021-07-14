@@ -37,6 +37,9 @@ a{
 }
 
 
+.columns{
+  columns: 3 auto;
+}
 
 #Track{
   color: #F5361C;
