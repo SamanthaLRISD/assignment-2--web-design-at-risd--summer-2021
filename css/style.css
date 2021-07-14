@@ -1,35 +1,35 @@
 body{
   background-color: #000000;
   margin: 50px;
+  margin: 3em;
 }
 
 h1{
-  font-family: 'Libre Franklin', sans-serif;
-  font-size: 40pt;
+  font: 3em 'Libre Franklin', sans-serif;
   color: #ffffff;
 }
 
 h2{
-  font-family: 'Libre Franklin', sans-serif;
+  font: 2em 'Libre Franklin', sans-serif;
   color: #ffffff;
   display: inline;
   object-position: top;
 }
 
 p{
-  font-family: 'Libre Franklin', sans-serif;
+  font: 1em / 1.5 'Libre Franklin', sans-serif;
   color: #ffffff;
   column-count: 3;
 }
 
 ol{
-  font-family: 'Libre Franklin', sans-serif;
+  font: 1em / 1.75 'Libre Franklin', sans-serif;
   color: #ffffff;
   display: inline-block;
 }
 
 ul{
-  font-family: 'Libre Franklin', sans-serif;
+  font: 1em / 1.5 'Libre Franklin', sans-serif;
   color: #ffffff;
   display: inline-block;
 }
